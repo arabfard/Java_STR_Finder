@@ -1,0 +1,1 @@
+java -jar STRsMiner-Module.jar chr.txt
